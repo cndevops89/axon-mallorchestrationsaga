@@ -77,3 +77,7 @@ java -jar rsc.jar --stream  --route products.all ws://localhost:8088/rsocket/pro
 java -jar rsc.jar --stream  --route deliveries.all ws://localhost:8088/rsocket/deliveries
 
 ```
+
+## DeepWiki Badge
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/kanapuli/mcp-kafka)
+
